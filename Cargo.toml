@@ -1,0 +1,15 @@
+[package]
+name = "rusty-ecma-benches"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ress = { git = "https://github.com/rusty-ecma/ress", tag = "v0.11.5"}
+ressa = { git = "https://github.com/rusty-ecma/ressa", tag = "v0.8.0"}
+
+
+[build-dependencies]
+handlebars = "4.3"
+serde_json = "1"

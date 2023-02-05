@@ -1,0 +1,19 @@
+{
+  "devDependencies": {
+    "angular": "^1.8.3",
+    "dexie": "^3.2.3",
+    "everything.js": "^1.0.3",
+    "jquery": "^3.6.3",
+    "moment": "^2.29.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vue": "^3.2.45"
+  },
+  "dependencies": {
+    "csv": "^6.2.6",
+    "octokit": "^2.0.14",
+    "sqlite": "^4.1.2",
+    "sqlite3": "^5.1.4",
+    "toml": "^3.0.0"
+  }
+}
